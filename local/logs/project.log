@@ -1,0 +1,351 @@
+2021-01-16T03:05:52.600Z - normal: Load ~/.CocosCreator/settings.json
+2021-01-16T03:05:52.694Z - normal: Initializing Asset Database
+2021-01-16T03:05:52.711Z - normal: checking language setting...
+2021-01-16T03:05:52.711Z - normal: Language: zh
+2021-01-16T03:05:55.553Z - success: preview server running at http://localhost:7456
+2021-01-16T03:05:55.557Z - success: protocol editor-framework registered
+2021-01-16T03:05:55.557Z - success: protocol app registered
+2021-01-16T03:05:55.558Z - success: protocol theme registered
+2021-01-16T03:05:55.558Z - success: protocol packages registered
+2021-01-16T03:05:55.558Z - success: protocol uuid registerred
+2021-01-16T03:05:55.558Z - success: protocol db registerred
+2021-01-16T03:05:55.558Z - success: protocol thumbnail registerred
+2021-01-16T03:05:55.558Z - success: protocol unpack registerred
+2021-01-16T03:05:55.558Z - success: protocol disable-commonjs registerred
+2021-01-16T03:05:55.651Z - normal: connected!
+2021-01-16T03:05:55.651Z - normal: Check project E:\cocos\CocosGame\tutorial-first-game-2.4\start_project
+2021-01-16T03:05:55.652Z - normal: Initializing project E:\cocos\CocosGame\tutorial-first-game-2.4\start_project
+2021-01-16T03:05:55.815Z - success: adapters loaded
+2021-01-16T03:05:55.827Z - success: asset-db-debugger loaded
+2021-01-16T03:05:56.069Z - success: fb-audience-network loaded
+2021-01-16T03:05:56.264Z - success: fb-live-stream loaded
+2021-01-16T03:05:56.281Z - success: google-play-instant loaded
+2021-01-16T03:05:56.285Z - success: huawei-adapter loaded
+2021-01-16T03:05:56.289Z - success: jkw-adapter loaded
+2021-01-16T03:05:56.293Z - success: jsb-adapter loaded
+2021-01-16T03:05:56.298Z - success: oppo-adapter loaded
+2021-01-16T03:05:56.313Z - success: package-manager loaded
+2021-01-16T03:05:56.317Z - success: qtt-adapter loaded
+2021-01-16T03:05:56.344Z - success: runtime-dev-tools loaded
+2021-01-16T03:05:56.375Z - success: sdkbox loaded
+2021-01-16T03:05:56.385Z - success: ui-kit-preview-extra loaded
+2021-01-16T03:05:56.414Z - success: ui-kit-preview loaded
+2021-01-16T03:05:56.419Z - success: vivo-adapter loaded
+2021-01-16T03:05:57.350Z - success: alipay-minigame loaded
+2021-01-16T03:05:57.391Z - success: assets loaded
+2021-01-16T03:05:57.393Z - success: baidugame-opendata loaded
+2021-01-16T03:05:57.395Z - success: baidugame loaded
+2021-01-16T03:05:57.424Z - success: builder loaded
+2021-01-16T03:05:58.361Z - success: cocos-services loaded
+2021-01-16T03:05:58.364Z - success: console loaded
+2021-01-16T03:05:58.367Z - success: curve-editor loaded
+2021-01-16T03:05:58.378Z - success: fb-instant-games loaded
+2021-01-16T03:05:58.381Z - success: game-window loaded
+2021-01-16T03:05:58.381Z - success: google-instant-games loaded
+2021-01-16T03:05:58.385Z - success: hierarchy loaded
+2021-01-16T03:05:58.390Z - success: huawei-runtime loaded
+2021-01-16T03:05:58.392Z - success: inspector loaded
+2021-01-16T03:05:58.664Z - success: cpk-publish loaded
+2021-01-16T03:05:58.664Z - success: keystore loaded
+2021-01-16T03:05:58.673Z - success: node-library loaded
+2021-01-16T03:05:58.674Z - success: open-recent-items loaded
+2021-01-16T03:05:58.677Z - success: oppo-runtime loaded
+2021-01-16T03:05:58.678Z - success: package-asset loaded
+2021-01-16T03:05:58.679Z - success: preferences loaded
+2021-01-16T03:05:58.681Z - success: project-importer loaded
+2021-01-16T03:05:58.681Z - success: project-settings loaded
+2021-01-16T03:05:58.697Z - success: qtt-runtime loaded
+2021-01-16T03:05:58.700Z - success: scene loaded
+2021-01-16T03:05:58.700Z - success: simulator-debugger loaded
+2021-01-16T03:05:58.701Z - success: sprite-editor loaded
+2021-01-16T03:05:58.702Z - success: store loaded
+2021-01-16T03:05:58.704Z - success: timeline loaded
+2021-01-16T03:05:58.708Z - success: vivo-runtime loaded
+2021-01-16T03:05:58.710Z - success: wechatgame-opendata loaded
+2021-01-16T03:05:58.718Z - success: wechatgame loaded
+2021-01-16T03:05:58.721Z - success: xiaomi-runtime loaded
+2021-01-16T03:06:00.167Z - normal: Initializing Cocos2d
+2021-01-16T03:06:02.735Z - normal: Initializing engine extends
+2021-01-16T03:06:06.332Z - info: Cocos Service load base data!
+2021-01-16T03:06:06.851Z - normal: Loading packages
+2021-01-16T03:06:06.854Z - normal: Watching packages
+2021-01-16T03:06:07.210Z - normal: Run Application
+2021-01-16T03:44:51.213Z - error: Can't init canvas 'background' because it conflicts with the existing 'Canvas', the scene should only have one active canvas at the same time
+    at Object.cc.errorID (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:257:6)
+    at cc_Canvas.__preload (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\components\CCCanvas.js:161:17)
+    at eval (eval at misc.tryCatchFunctor_EDITOR (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\utils\misc.js:116:12), <anonymous>:4:10)
+    at CCClass.cc.Class.activateComp (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\node-activator.js:305:13)
+    at cc_Node.addComponent (E:\cocos\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\utils\base-node.js:1013:34)
+    at Object.addComponent (E:\cocos\CocosCreator\resources\app.asar\editor\page\scene-utils\utils\scene.js:1:7550)
+    at E:\cocos\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene-operation.js:1:1502
+    at t (E:\cocos\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene-operation.js:1:459)
+    at HTMLElement.add-component (E:\cocos\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene-operation.js:1:1462)
+2021-01-16T06:35:10.266Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "E:\\cocos\\CocosGame\\tutorial-first-game-2.4\\start_project\\build",
+  "buildScriptsOnly": false,
+  "debug": false,
+  "dest": "E:\\cocos\\CocosGame\\tutorial-first-game-2.4\\start_project\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "3D Physics/Builtin"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "db97e2cf-aa52-4699-8251-e8e80af82cbf"
+  ],
+  "sourceMaps": false,
+  "startScene": "db97e2cf-aa52-4699-8251-e8e80af82cbf",
+  "template": "link",
+  "title": "start_project",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "705f8fe5-88ec-47",
+  "zipCompressJs": true,
+  "project": "E:\\cocos\\CocosGame\\tutorial-first-game-2.4\\start_project",
+  "projectName": "start_project",
+  "debugBuildWorker": false
+}
+2021-01-16T06:35:10.267Z - normal: Building E:\cocos\CocosGame\tutorial-first-game-2.4\start_project
+2021-01-16T06:35:10.267Z - normal: Destination E:\cocos\CocosGame\tutorial-first-game-2.4\start_project\build\wechatgame
+2021-01-16T06:35:10.707Z - normal: Delete E:\cocos\CocosGame\tutorial-first-game-2.4\start_project\build\wechatgame\**\*,!E:\cocos\CocosGame\tutorial-first-game-2.4\start_project\build\wechatgame\game.json,!E:\cocos\CocosGame\tutorial-first-game-2.4\start_project\build\wechatgame\project.config.json
+2021-01-16T06:35:10.751Z - normal: Building 3D physics modules...
+2021-01-16T06:35:18.654Z - normal: Start building assets
+2021-01-16T06:35:18.654Z - normal: Start spawn build-worker
+2021-01-16T06:35:19.141Z - normal: Finish spawn build-worker
+2021-01-16T06:35:19.141Z - normal: Start init build-worker
+2021-01-16T06:35:21.353Z - normal: Finish init build-worker
+2021-01-16T06:35:21.354Z - normal: Start build-assets in worker
+2021-01-16T06:35:22.017Z - normal: Finish build-assets in worker
+2021-01-16T06:35:22.026Z - normal: Finish building assets
+2021-01-16T06:35:22.027Z - normal: Start building plugin scripts
+2021-01-16T06:35:24.670Z - normal: Built wechatgame successfully
+2021-01-16T06:35:29.382Z - normal: Active code page: 65001
+
+2021-01-16T06:35:30.003Z - error: - initialize
+
+
+    at Socket.<anonymous> (E:\cocos\CocosCreator\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:774)
+    at Socket.emit (events.js:194:13)
+    at Socket.EventEmitter.emit (domain.js:469:20)
+    at addChunk (_stream_readable.js:296:12)
+    at readableAddChunk (_stream_readable.js:277:11)
+    at Socket.Readable.push (_stream_readable.js:232:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
+2021-01-16T06:35:30.082Z - error: √ IDE server has started, listening on http://127.0.0.1:47221
+
+    at Socket.<anonymous> (E:\cocos\CocosCreator\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:774)
+    at Socket.emit (events.js:194:13)
+    at Socket.EventEmitter.emit (domain.js:469:20)
+    at addChunk (_stream_readable.js:296:12)
+    at readableAddChunk (_stream_readable.js:277:11)
+    at Socket.Readable.push (_stream_readable.js:232:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
+2021-01-16T06:35:30.083Z - error: - open IDE
+
+
+    at Socket.<anonymous> (E:\cocos\CocosCreator\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:774)
+    at Socket.emit (events.js:194:13)
+    at Socket.EventEmitter.emit (domain.js:469:20)
+    at addChunk (_stream_readable.js:296:12)
+    at readableAddChunk (_stream_readable.js:277:11)
+    at Socket.Readable.push (_stream_readable.js:232:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
+2021-01-16T06:35:59.204Z - normal: Active code page: 65001
+
+2021-01-16T06:35:59.445Z - error: - initialize
+
+
+    at Socket.<anonymous> (E:\cocos\CocosCreator\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:774)
+    at Socket.emit (events.js:194:13)
+    at Socket.EventEmitter.emit (domain.js:469:20)
+    at addChunk (_stream_readable.js:296:12)
+    at readableAddChunk (_stream_readable.js:277:11)
+    at Socket.Readable.push (_stream_readable.js:232:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
+2021-01-16T06:35:59.478Z - error: √ IDE server has started, listening on http://127.0.0.1:47221
+
+    at Socket.<anonymous> (E:\cocos\CocosCreator\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:774)
+    at Socket.emit (events.js:194:13)
+    at Socket.EventEmitter.emit (domain.js:469:20)
+    at addChunk (_stream_readable.js:296:12)
+    at readableAddChunk (_stream_readable.js:277:11)
+    at Socket.Readable.push (_stream_readable.js:232:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
+2021-01-16T06:35:59.478Z - error: - open IDE
+
+
+    at Socket.<anonymous> (E:\cocos\CocosCreator\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:774)
+    at Socket.emit (events.js:194:13)
+    at Socket.EventEmitter.emit (domain.js:469:20)
+    at addChunk (_stream_readable.js:296:12)
+    at readableAddChunk (_stream_readable.js:277:11)
+    at Socket.Readable.push (_stream_readable.js:232:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
+2021-01-16T07:04:03.613Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "E:\\cocos\\CocosGame\\tutorial-first-game-2.4\\start_project\\build",
+  "buildScriptsOnly": false,
+  "debug": false,
+  "dest": "E:\\cocos\\CocosGame\\tutorial-first-game-2.4\\start_project\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "3D Physics/Builtin"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "mini-game",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "db97e2cf-aa52-4699-8251-e8e80af82cbf"
+  ],
+  "sourceMaps": false,
+  "startScene": "db97e2cf-aa52-4699-8251-e8e80af82cbf",
+  "template": "link",
+  "title": "start_project",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "705f8fe5-88ec-47",
+  "zipCompressJs": true,
+  "project": "E:\\cocos\\CocosGame\\tutorial-first-game-2.4\\start_project",
+  "projectName": "start_project",
+  "debugBuildWorker": false
+}
+2021-01-16T07:04:03.614Z - normal: Building E:\cocos\CocosGame\tutorial-first-game-2.4\start_project
+2021-01-16T07:04:03.614Z - normal: Destination E:\cocos\CocosGame\tutorial-first-game-2.4\start_project\build\wechatgame
+2021-01-16T07:04:03.614Z - normal: Delete E:\cocos\CocosGame\tutorial-first-game-2.4\start_project\build\wechatgame\**\*,!E:\cocos\CocosGame\tutorial-first-game-2.4\start_project\build\wechatgame\game.json,!E:\cocos\CocosGame\tutorial-first-game-2.4\start_project\build\wechatgame\project.config.json
+2021-01-16T07:04:03.637Z - normal: Building 3D physics modules...
+2021-01-16T07:04:10.655Z - normal: Start building assets
+2021-01-16T07:04:10.655Z - normal: Start spawn build-worker
+2021-01-16T07:04:11.212Z - normal: Finish spawn build-worker
+2021-01-16T07:04:11.212Z - normal: Start init build-worker
+2021-01-16T07:04:15.311Z - normal: Finish init build-worker
+2021-01-16T07:04:15.311Z - normal: Start build-assets in worker
+2021-01-16T07:04:15.578Z - normal: Finish build-assets in worker
+2021-01-16T07:04:15.589Z - normal: Finish building assets
+2021-01-16T07:04:15.589Z - normal: Start building plugin scripts
+2021-01-16T07:04:19.278Z - normal: Built wechatgame successfully
+2021-01-16T07:04:27.442Z - normal: Active code page: 65001
+
+2021-01-16T07:04:27.684Z - error: - initialize
+
+
+    at Socket.<anonymous> (E:\cocos\CocosCreator\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:774)
+    at Socket.emit (events.js:194:13)
+    at Socket.EventEmitter.emit (domain.js:469:20)
+    at addChunk (_stream_readable.js:296:12)
+    at readableAddChunk (_stream_readable.js:277:11)
+    at Socket.Readable.push (_stream_readable.js:232:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
+2021-01-16T07:04:27.725Z - error: √ IDE server has started, listening on http://127.0.0.1:47221
+- open IDE
+
+
+    at Socket.<anonymous> (E:\cocos\CocosCreator\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:774)
+    at Socket.emit (events.js:194:13)
+    at Socket.EventEmitter.emit (domain.js:469:20)
+    at addChunk (_stream_readable.js:296:12)
+    at readableAddChunk (_stream_readable.js:277:11)
+    at Socket.Readable.push (_stream_readable.js:232:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
+2021-01-16T07:04:29.078Z - error: √ open IDE
+
+    at Socket.<anonymous> (E:\cocos\CocosCreator\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:774)
+    at Socket.emit (events.js:194:13)
+    at Socket.EventEmitter.emit (domain.js:469:20)
+    at addChunk (_stream_readable.js:296:12)
+    at readableAddChunk (_stream_readable.js:277:11)
+    at Socket.Readable.push (_stream_readable.js:232:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
+2021-01-16T07:05:30.106Z - error: × open IDE
+
+
+    at Socket.<anonymous> (E:\cocos\CocosCreator\resources\app.asar\editor\builtin\wechatgame\utils\wechat-game.js:1:774)
+    at Socket.emit (events.js:194:13)
+    at Socket.EventEmitter.emit (domain.js:469:20)
+    at addChunk (_stream_readable.js:296:12)
+    at readableAddChunk (_stream_readable.js:277:11)
+    at Socket.Readable.push (_stream_readable.js:232:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:165:17)
+2021-01-16T07:05:30.107Z - normal: [error] Error: socket hang up
+
+2021-01-16T07:05:49.910Z - info: shutdown preview server
